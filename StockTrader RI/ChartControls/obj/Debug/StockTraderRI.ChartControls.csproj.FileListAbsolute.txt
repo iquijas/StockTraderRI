@@ -1,0 +1,12 @@
+C:\Source\Prism5\StockTrader RI\ChartControls\bin\Debug\StockTraderRI.ChartControls.dll
+C:\Source\Prism5\StockTrader RI\ChartControls\bin\Debug\StockTraderRI.ChartControls.pdb
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.csprojResolveAssemblyReference.cache
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls_MarkupCompile.cache
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls_MarkupCompile.lref
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\themes\generic.baml
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.g.resources
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.Properties.Resources.resources
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.csproj.GenerateResource.Cache
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.dll
+C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.pdb
