@@ -9,8 +9,8 @@ using StockTraderRI.Infrastructure.Models;
 using StockTraderRI.Modules.News.Article;
 using StockTraderRI.Modules.News.Controllers;
 using StockTraderRI.Infrastructure.Interfaces;
-using Microsoft.Practices.Prism.Regions;
-using Microsoft.Practices.Prism.PubSubEvents;
+using Prism.Regions;
+using Prism.Events;
 
 namespace StockTraderRI.Modules.News.Tests.Controllers
 {

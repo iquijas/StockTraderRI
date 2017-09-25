@@ -10,8 +10,8 @@ using StockTraderRI.Infrastructure.Interfaces;
 using System.ComponentModel;
 using Moq;
 using StockTraderRI.Infrastructure.Models;
-using Microsoft.Practices.Prism.Regions;
-using Microsoft.Practices.Prism.PubSubEvents;
+using Prism.Regions;
+using Prism.Events;
 using StockTraderRI.Infrastructure;
 
 namespace StockTraderRI.Modules.News.Tests.Article

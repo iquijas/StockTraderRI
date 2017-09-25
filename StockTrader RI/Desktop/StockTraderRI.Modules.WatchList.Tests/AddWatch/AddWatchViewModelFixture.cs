@@ -9,8 +9,8 @@ using StockTraderRI.Modules.Watch.Services;
 using StockTraderRI.Modules.Watch.AddWatch;
 using Moq;
 using System.ComponentModel;
-using Microsoft.Practices.Prism.Commands;
-using Microsoft.Practices.Prism.Mvvm;
+using Prism.Commands;
+using Prism.Mvvm;
 using System.Windows.Input;
 
 namespace StockTraderRI.Modules.WatchList.Tests.AddWatch

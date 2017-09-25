@@ -3,7 +3,7 @@
 using System;
 using System.ComponentModel.Composition.Hosting;
 using System.Windows;
-using Microsoft.Practices.Prism.MefExtensions;
+using Prism.Mef;
 using StockTraderRI.Infrastructure;
 using StockTraderRI.Modules.Market;
 using StockTraderRI.Modules.News;
@@ -38,7 +38,7 @@ namespace StockTraderRI
             Application.Current.MainWindow.Show();
         }
 
-        protected override Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory ConfigureDefaultRegionBehaviors()
+        protected override Prism.Regions.IRegionBehaviorFactory ConfigureDefaultRegionBehaviors()
         {
             var factory = base.ConfigureDefaultRegionBehaviors();
 

@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Microsoft.Practices.Prism.PubSubEvents;
+using Prism.Events;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using StockTraderRI.Infrastructure;

@@ -7,7 +7,7 @@ using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Windows;
 using System.Windows.Controls;
-using Microsoft.Practices.Prism.Regions;
+using Prism.Regions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using StockTraderRI.Infrastructure.Behaviors;
 
@@ -266,6 +266,11 @@ namespace StockTraderRI.Infrastructure.Tests.Behaviors
             }
 
             public void RequestNavigate(Uri source, Action<NavigationResult> navigationCallback, NavigationParameters navigationParameters)
+            {
+                throw new NotImplementedException();
+            }
+
+            public void RemoveAll()
             {
                 throw new NotImplementedException();
             }

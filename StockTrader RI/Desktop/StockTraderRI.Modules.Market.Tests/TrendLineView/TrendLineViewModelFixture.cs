@@ -2,7 +2,7 @@
 
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Microsoft.Practices.Prism.PubSubEvents;
+using Prism.Events;
 using Moq;
 using StockTraderRI.Infrastructure;
 using StockTraderRI.Modules.Market.Tests.Mocks;

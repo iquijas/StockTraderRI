@@ -10,7 +10,7 @@ using StockTraderRI.Infrastructure;
 using StockTraderRI.Infrastructure.Interfaces;
 using StockTraderRI.Modules.Market.Properties;
 using System.ComponentModel.Composition;
-using Microsoft.Practices.Prism.PubSubEvents;
+using Prism.Events;
 
 namespace StockTraderRI.Modules.Market.Services
 {

@@ -79,7 +79,7 @@ namespace StockTraderRI.Modules.Position.Tests.Orders
 
             Assert.IsFalse(viewModel.SubmitCommand.CanExecute(null));
 
-            await viewModel.SubmitCommand.Execute(null);
+            viewModel.SubmitCommand.Execute(null);
         }
 
         [TestMethod]

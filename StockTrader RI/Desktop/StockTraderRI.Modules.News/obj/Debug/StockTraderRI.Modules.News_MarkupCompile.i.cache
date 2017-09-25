@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Source\Prism5\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\
 StockTraderRI.Modules.News
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 2937595624
 
-152019424726
-74-259655116
+15-1582184603
+71918994915
 Article\ArticleView.xaml;Article\NewsReaderView.xaml;
 
 False

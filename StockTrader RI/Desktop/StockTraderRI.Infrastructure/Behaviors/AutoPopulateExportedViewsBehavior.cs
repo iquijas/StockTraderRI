@@ -2,7 +2,7 @@
 
 using System;
 using System.ComponentModel.Composition;
-using Microsoft.Practices.Prism.Regions;
+using Prism.Regions;
 
 namespace StockTraderRI.Infrastructure
 {

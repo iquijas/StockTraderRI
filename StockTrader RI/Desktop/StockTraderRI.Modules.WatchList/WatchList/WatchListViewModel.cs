@@ -10,10 +10,10 @@ using System.Windows.Input;
 using StockTraderRI.Modules.Watch.Services;
 using System.ComponentModel.Composition;
 using StockTraderRI.Infrastructure;
-using Microsoft.Practices.Prism.Commands;
-using Microsoft.Practices.Prism.Mvvm;
-using Microsoft.Practices.Prism.PubSubEvents;
-using Microsoft.Practices.Prism.Regions;
+using Prism.Commands;
+using Prism.Mvvm;
+using Prism.Events;
+using Prism.Regions;
 using StockTraderRI.Infrastructure.Interfaces;
 using StockTraderRI.Modules.Watch.Properties;
 

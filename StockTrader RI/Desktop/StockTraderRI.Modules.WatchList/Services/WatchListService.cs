@@ -5,8 +5,8 @@ using System.Collections.ObjectModel;
 using System.ComponentModel.Composition;
 using System.Globalization;
 using System.Windows.Input;
-using Microsoft.Practices.Prism.Commands;
-using Microsoft.Practices.Prism.Mvvm;
+using Prism.Commands;
+using Prism.Mvvm;
 using StockTraderRI.Infrastructure.Interfaces;
 
 namespace StockTraderRI.Modules.Watch.Services

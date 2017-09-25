@@ -4,7 +4,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
-using Microsoft.Practices.Prism.Regions;
+using Prism.Regions;
 
 namespace StockTraderRI.Modules.Position.Tests.Mocks
 {
@@ -15,6 +15,11 @@ namespace StockTraderRI.Modules.Position.Tests.Mocks
         public IRegionCollection Regions
         {
             get { return _regions; }
+        }
+
+        public IRegionManager AddToRegion(string regionName, object view)
+        {
+            throw new NotImplementedException();
         }
 
         public IRegion AttachNewRegion(object regionTarget, string regionName)
@@ -28,6 +33,56 @@ namespace StockTraderRI.Modules.Position.Tests.Mocks
         }
 
         public bool Navigate(Uri source)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IRegionManager RegisterViewWithRegion(string regionName, Type viewType)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IRegionManager RegisterViewWithRegion(string regionName, Func<object> getContentDelegate)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RequestNavigate(string regionName, Uri source, Action<NavigationResult> navigationCallback)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RequestNavigate(string regionName, Uri source)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RequestNavigate(string regionName, string source, Action<NavigationResult> navigationCallback)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RequestNavigate(string regionName, string source)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RequestNavigate(string regionName, Uri target, Action<NavigationResult> navigationCallback, NavigationParameters navigationParameters)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RequestNavigate(string regionName, string target, Action<NavigationResult> navigationCallback, NavigationParameters navigationParameters)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RequestNavigate(string regionName, Uri target, NavigationParameters navigationParameters)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RequestNavigate(string regionName, string target, NavigationParameters navigationParameters)
         {
             throw new NotImplementedException();
         }
@@ -65,6 +120,11 @@ namespace StockTraderRI.Modules.Position.Tests.Mocks
         public bool ContainsRegionWithName(string regionName)
         {
             throw new System.NotImplementedException();
+        }
+
+        public void Add(string regionName, IRegion region)
+        {
+            throw new NotImplementedException();
         }
 
         public event System.Collections.Specialized.NotifyCollectionChangedEventHandler CollectionChanged;
@@ -187,6 +247,11 @@ namespace StockTraderRI.Modules.Position.Tests.Mocks
         public void MoveFrom(IRegion sourceRegion, object view, string viewName)
         {
             throw new System.NotImplementedException();
+        }
+
+        public void RemoveAll()
+        {
+            throw new NotImplementedException();
         }
     }
 

@@ -4,7 +4,7 @@ using System;
 using System.ComponentModel.Composition;
 using System.Windows.Controls;
 using StockTraderRI.Infrastructure;
-using Microsoft.Practices.Prism.PubSubEvents;
+using Prism.Events;
 
 namespace StockTraderRI.Modules.Position.PositionSummary
 {

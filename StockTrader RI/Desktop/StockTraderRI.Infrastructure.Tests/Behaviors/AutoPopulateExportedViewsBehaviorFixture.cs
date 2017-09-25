@@ -3,7 +3,7 @@
 using System.ComponentModel.Composition;
 using System.ComponentModel.Composition.Hosting;
 using System.Linq;
-using Microsoft.Practices.Prism.Regions;
+using Prism.Regions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace StockTraderRI.Infrastructure.Tests.Behaviors

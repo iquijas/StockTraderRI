@@ -1,6 +1,6 @@
 // Copyright (c) Microsoft Corporation. All rights reserved. See License.txt in the project root for license information.
 
-using Microsoft.Practices.Prism.PubSubEvents;
+using Prism.Events;
 
 namespace StockTraderRI.Infrastructure
 {

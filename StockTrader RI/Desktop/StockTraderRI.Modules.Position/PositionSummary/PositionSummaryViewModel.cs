@@ -3,8 +3,8 @@
 using System;
 using System.ComponentModel.Composition;
 using System.Windows.Input;
-using Microsoft.Practices.Prism.PubSubEvents;
-using Microsoft.Practices.Prism.Mvvm;
+using Prism.Events;
+using Prism.Mvvm;
 using StockTraderRI.Infrastructure;
 using StockTraderRI.Modules.Position.Controllers;
 

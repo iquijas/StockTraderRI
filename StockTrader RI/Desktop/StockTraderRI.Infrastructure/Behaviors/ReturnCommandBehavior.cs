@@ -3,8 +3,8 @@
 using System.Windows.Controls;
 using System.Windows.Input;
 using System;
-using Microsoft.Practices.Prism.Commands;
-using Microsoft.Practices.Prism.Interactivity;
+using Prism.Commands;
+using Prism.Interactivity;
 
 namespace StockTraderRI.Infrastructure.Behaviors
 {
