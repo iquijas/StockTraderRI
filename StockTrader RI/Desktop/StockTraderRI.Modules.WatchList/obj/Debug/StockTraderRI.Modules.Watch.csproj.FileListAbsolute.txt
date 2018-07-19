@@ -65,3 +65,4 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Watch
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.csproj.CopyComplete
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.pdb
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.csprojAssemblyReference.cache

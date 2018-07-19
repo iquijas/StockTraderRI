@@ -12,7 +12,6 @@ C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartContr
 C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.pdb
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\bin\Debug\StockTraderRI.ChartControls.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\bin\Debug\StockTraderRI.ChartControls.pdb
-C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.csprojAssemblyReference.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls_MarkupCompile.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls_MarkupCompile.lref
