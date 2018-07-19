@@ -67,7 +67,7 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Posit
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\bin\Debug\Prism.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\bin\Debug\Prism.Wpf.xml
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.csprojResolveAssemblyReference.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.csprojAssemblyReference.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\Orders\OrderCommandsView.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\Orders\OrderDetailsView.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\PositionSummary\PositionPieChartView.baml
@@ -85,7 +85,8 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Posit
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\Orders\OrdersView.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.g.resources
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.Properties.Resources.resources
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.csproj.GenerateResource.Cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.csproj.GenerateResource.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.csproj.CoreCompileInputs.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.csproj.CopyComplete
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Position\obj\Debug\StockTraderRI.Modules.Position.pdb

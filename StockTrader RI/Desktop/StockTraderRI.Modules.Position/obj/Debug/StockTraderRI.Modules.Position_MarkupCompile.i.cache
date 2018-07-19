@@ -13,8 +13,8 @@ DEBUG;TRACE
 6310935740
 
 411581974978
-73397518256
+201882872564
 Orders\OrderCommandsView.xaml;Orders\OrderCompositeView.xaml;Orders\OrderDetailsView.xaml;Orders\OrdersView.xaml;PositionSummary\PositionPieChartView.xaml;PositionSummary\PositionSummaryView.xaml;
 
-True
+False
 

@@ -53,7 +53,7 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\bin\Debug\Prism.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\bin\Debug\Prism.Wpf.xml
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.csprojResolveAssemblyReference.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.csprojAssemblyReference.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\Article\ArticleView.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\Article\NewsReaderView.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\Article\ArticleView.g.cs
@@ -61,7 +61,8 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News_MarkupCompile.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.g.resources
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.Properties.Resources.resources
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.csproj.GenerateResource.Cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.csproj.GenerateResource.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.csproj.CoreCompileInputs.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.csproj.CopyComplete
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.News\obj\Debug\StockTraderRI.Modules.News.pdb

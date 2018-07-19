@@ -113,7 +113,7 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Pri
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Prism.Mef.Wpf.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Prism.Wpf.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.pdb
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.csprojResolveAssemblyReference.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.csprojAssemblyReference.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Resources\Styles.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Resources\TabItemResource.baml
@@ -129,7 +129,8 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\The
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Shell.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.g.resources
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.Properties.Resources.resources
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.csproj.GenerateResource.Cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.csproj.GenerateResource.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.csproj.CoreCompileInputs.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.csproj.CopyComplete
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.exe
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.pdb

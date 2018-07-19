@@ -63,13 +63,14 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Marke
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\bin\Debug\Prism.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\bin\Debug\Prism.Wpf.xml
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.csprojResolveAssemblyReference.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.csprojAssemblyReference.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\TrendLine\TrendLineView.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\TrendLine\TrendLineView.g.cs
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market_MarkupCompile.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.g.resources
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.Properties.Resources.resources
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.csproj.GenerateResource.Cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.csproj.GenerateResource.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.csproj.CoreCompileInputs.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.csproj.CopyComplete
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Market\obj\Debug\StockTraderRI.Modules.Market.pdb

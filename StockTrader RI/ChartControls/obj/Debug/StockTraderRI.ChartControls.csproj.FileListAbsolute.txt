@@ -12,13 +12,14 @@ C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartContr
 C:\Source\Prism5\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.pdb
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\bin\Debug\StockTraderRI.ChartControls.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\bin\Debug\StockTraderRI.ChartControls.pdb
+C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.csprojAssemblyReference.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls_MarkupCompile.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls_MarkupCompile.lref
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\themes\generic.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.g.resources
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.Properties.Resources.resources
-C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.csproj.GenerateResource.Cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.csproj.GenerateResource.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.csproj.CoreCompileInputs.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\ChartControls\obj\Debug\StockTraderRI.ChartControls.pdb

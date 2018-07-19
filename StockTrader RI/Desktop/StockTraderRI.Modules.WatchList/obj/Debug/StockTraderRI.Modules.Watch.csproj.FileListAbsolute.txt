@@ -53,7 +53,6 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Watch
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Prism.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Prism.Wpf.xml
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.csprojResolveAssemblyReference.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\AddWatch\AddWatchView.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\WatchList\WatchListView.baml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\AddWatch\AddWatchView.g.cs
@@ -61,7 +60,8 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.Watch
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch_MarkupCompile.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.g.resources
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.Properties.Resources.resources
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.csproj.GenerateResource.Cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.csproj.GenerateResource.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.csproj.CoreCompileInputs.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.csproj.CopyComplete
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.pdb

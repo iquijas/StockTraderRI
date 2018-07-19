@@ -42,7 +42,8 @@ C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructur
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\bin\Debug\Prism.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\bin\Debug\Prism.Wpf.xml
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.Properties.Resources.resources
-C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.csproj.GenerateResource.Cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.csproj.GenerateResource.cache
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.csproj.CopyComplete
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.dll
 C:\Source\Repos\StockTraderRI\StockTrader RI\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.pdb
